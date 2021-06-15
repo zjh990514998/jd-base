@@ -6,9 +6,11 @@
 sudo sh jd-base.sh
 # 如未修改用户名密码，则初始用户名为：admin，初始密码为：shuye72
 # 请访问 http://<ip>:5678 登陆并修改配置...
+# 注:一些依赖需挂梯子
 ```
 ## 搭建运行常见问题
 https://www.kejiwanjia.com/zheteng/286.html
+
 https://www.kejiwanjia.com/zheteng/1123.html
 
 ## 免责声明
