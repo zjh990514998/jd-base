@@ -7,6 +7,9 @@ sudo sh jd-base.sh
 # 如未修改用户名密码，则初始用户名为：admin，初始密码为：shuye72
 # 请访问 http://<ip>:5678 登陆并修改配置...
 ```
+## 搭建运行常见问题
+https://www.kejiwanjia.com/zheteng/286.html
+https://www.kejiwanjia.com/zheteng/1123.html
 
 ## 免责声明
 - 此仓储脚本仅用于学习研究，不保证其合法性、准确性、有效性，请根据情况自行判断，本人对此不承担任何保证责任。
